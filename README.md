@@ -62,5 +62,4 @@ This project helped in understanding:
 ---
 
 ## Author
-Your Name
 Kareem Folashade Kafayat 
