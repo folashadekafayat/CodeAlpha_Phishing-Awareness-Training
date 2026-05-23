@@ -5,7 +5,6 @@ This project was completed as part of the CodeAlpha Cyber Security Internship.
 
 The aim of this project is to educate users about phishing attacks, social engineering techniques, and cybersecurity best practices for staying safe online.
 
----
 
 ## Presentation Topics
 The presentation covers:
@@ -19,14 +18,12 @@ The presentation covers:
 - Response steps after phishing attacks
 - Interactive quiz session
 
----
 
 ## Tools Used
 - Microsoft PowerPoint / Canva
 - Internet research
 - Cybersecurity awareness materials
 
----
 
 ## Slides Included
 1. Title Slide
@@ -41,7 +38,6 @@ The presentation covers:
 10. Interactive Quiz
 11. Conclusion
 
----
 
 ## Learning Outcome
 This project helped in understanding:
@@ -52,14 +48,13 @@ This project helped in understanding:
 - Cybersecurity awareness
 - User protection techniques
 
----
 
 ## Files Included
 - Phishing Awareness Presentation.pptx
 - README.md
 - Screenshots
 
----
+
 
 ## Author
 Kareem Folashade Kafayat 
